@@ -11,7 +11,7 @@ This was a capstone project to demonstrate the use of HTML, CSS, and Bootstrap f
   
 ## What I Learned
 
-* I made it a point to use the command line to send updates to git.
+* I made it a point to use the command line to update git and github.
 * Refreshed my memory regarding the different Bootstrap classes.
 * How to make the background color of the Navbar when scrolled.
 
